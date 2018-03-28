@@ -1,0 +1,17 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{C61DBC0D-42C8-6011-BFC2-F3911B9295DF}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestGitsourceEnn",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"UMG"
+			]
+		}
+	]
+}
